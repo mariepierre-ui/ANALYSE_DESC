@@ -1,6 +1,6 @@
 # Analyse descriptive & Exploration de données
 
-Travaux pratiques réalisés dans le cadre de mon M1 Mathématiques appliquées : analyse exploratoire, visualisation et premières méthodes d'apprentissage non supervisé en Python.
+Travaux pratiques réalisés dans le cadre de mon M2 Mathématiques appliquées : analyse exploratoire, visualisation et premières méthodes d'apprentissage non supervisé en Python.
 
 ## Contenu
 
