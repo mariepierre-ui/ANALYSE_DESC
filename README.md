@@ -4,7 +4,7 @@ Travaux pratiques réalisés dans le cadre de mon M1 Mathématiques appliquées 
 
 ## Contenu
 
-- **TD1 : Notions abordées, lire et explorer un jeu de données avec **Pandas**, sélectionner des lignes et des colonnes, nettoyer les données et convertir leurs types, manipuler les dates et les séries temporelles, identifier, supprimer et remplacer les valeurs manquantes.
+- **TD1** : Notions abordées, lire et explorer un jeu de données avec **Pandas**, sélectionner des lignes et des colonnes, nettoyer les données et convertir leurs types, manipuler les dates et les séries temporelles, identifier, supprimer et remplacer les valeurs manquantes.
 - **TD2 : Exploration et clustering de données de vol** : analyse exploratoire (EDA) de données moteur d'un avion, visualisation (courbes, histogrammes, heatmap de corrélation), réduction de dimension par **ACP** et regroupement des phases de vol par **k-means**, évalué avec la pureté et l'accuracy non supervisée
 
 ## Outils
